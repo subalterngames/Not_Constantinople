@@ -4,11 +4,11 @@ Cultural Place Name Generator randomly generates city and regional names based o
 
 Here is "Lyria", a blend of Visigothic, Saxon, and Suebi:
 
-![Lyria](Images/Lyria.png)
+![Lyria](/Images/lyria.png)
 
 And here is "Pharostine", a blend of Assyrian, Georgian, Alan, Greek, Roman, and Armenian:
 
-![Lyria](Images/Pharostine.png)
+![Pharostine](/Images/pharostine.png)
 
 # About this manual
 This manual is intended for _non-programmers_. If you're a non-programmer, this all might appear a little intimidating. That's OK. I promise it looks tougher to use than it actually is. I'm going to walk you through installing and using the program. Have confidence in your own abilities! It'll be great!
@@ -49,7 +49,7 @@ You just need to have an extra Python thing:
 type `pip -3.6 install markovify`
 
 ## 4. Download my program
-Get it here. Unzip the download.
+Get it [here](https://github.com/subalterngames/Cultural_Place_Name_Generator/releases/tag/1.0). Unzip the download.
 
 ## 5. Congratulate yourself!
 OK you're all set up. Great job!! I knew you could do it.  
