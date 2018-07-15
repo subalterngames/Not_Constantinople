@@ -1,0 +1,7 @@
+dist/*
+venv/*
+.idea/*
+*.backup
+json_exporter.py
+cultures.py
+Output/*
