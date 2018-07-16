@@ -1,4 +1,8 @@
 
+_Even old New York was once New Amsterdam..._
+
+--Sultan Mehmed II of the Ottoman Empire
+
 # Overview
 **Not Constantinople** randomly generates city and regional names based on real-life cities. Want a fantasy city name that sounds English but with some French and Italian thrown in? That's what this program does.
 
