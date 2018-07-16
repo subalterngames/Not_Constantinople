@@ -1,6 +1,6 @@
 
 # Overview
-Cultural Place Name Generator randomly generates city and regional names based on real-life cities. Want a fantasy city name that sounds English but with some French and Italian thrown in? That's what this program does.
+**Not Constantinople** randomly generates city and regional names based on real-life cities. Want a fantasy city name that sounds English but with some French and Italian thrown in? That's what this program does.
 
 Here is "Lyria", a blend of Visigothic, Saxon, and Suebi:
 
@@ -19,7 +19,6 @@ See [license.txt](license.txt)
 The content of `provinces.json` was scraped from the data files of the video game Crusader Kings II.
 
 # Installation
-OK. Deep breath. There's a lot of steps. I promise it'll be fine.
 
 ## 1. Install Python 3
 Grab it [here](https://www.python.org/downloads/) (Click the big yellow button).
@@ -42,21 +41,21 @@ Congrats! You're in the Matrix. The terminal looks way scarier than it actually 
 ### How to read terminal instructions
 Whenever you read "type `some instructions`" that always means: type those instructions _in the terminal_ and then _press enter._
 
-Whenever you read something like "type `cd <path/to/file>`" don't type the \< or the \>, and replace path/to/file with the actual path to the file (for example: `cd c:/users/seth/Cultural_Place_Name_Generator`)  
+Whenever you read something like "type `cd <path/to/file>`" don't type the \< or the \>, and replace path/to/file with the actual path to the file (for example: `cd c:/users/seth/Not_Constantinople`)  
 
 ## 3. Install stuff with pip
 You just need to have an extra Python thing:
 type `pip -3.6 install markovify`
 
 ## 4. Download my program
-Get it [here](https://github.com/subalterngames/Cultural_Place_Name_Generator/releases/tag/1.0). Unzip the download.
+Get it [here](https://github.com/subalterngames/Not_Constantinople/releases/tag/1.0). Unzip the download.
 
 ## 5. Congratulate yourself!
 OK you're all set up. Great job!! I knew you could do it.  
 
 # Usage
 
-Using Windows Explorer (Windows) or Finder (OS X), navigate to `Cultural_Place_Name_Generator/Input` (I don't know where the folder ``Cultural_Place_Name_Generator` is located; it's wherever you unzipped the download .zip file.)
+Using Windows Explorer (Windows) or Finder (OS X), navigate to `Not_Constantinople/Input` (I don't know where the folder ``Not_Constantinople` is located; it's wherever you unzipped the download .zip file.)
 
 ## Input
 
@@ -86,7 +85,7 @@ See "Cultures" for the list of acceptable cultures.
 
 Once you have set up your fantasy culture(s), open the terminal.
 
-- type `cd <path/to/Cultural_Place_Name_Generator`
+- type `cd <path/to/Not_Constantinople`
 - type `py -3.6 namer.py`
 
 Wait a bit for the terminal prompt to re-appear... that's how you'll know it's done processing.
