@@ -59,7 +59,7 @@ Using Windows Explorer (Windows) or Finder (OS X), navigate to `Not_Constantinop
 
 ## Input
 
-I've included a couple sample input files in `Cultural_Name_Place_Generator/Input` They are all `.json` files. You can open them in Notepad on Windows and TextEdit in OS X. They look like this:
+I've included a couple sample input files in `Not_Constantinople/Input` They are all `.json` files. You can open them in Notepad on Windows and TextEdit in OS X. They look like this:
 
 ```
 {
