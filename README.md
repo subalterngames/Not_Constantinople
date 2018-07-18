@@ -90,7 +90,7 @@ See "Cultures" for the list of acceptable cultures.
 Once you have set up your fantasy culture(s), open the terminal.
 
 - type `cd <path/to/Not_Constantinople`
-- type `py -3.6 namer.py`
+- type `py -3.6 not_constantinople.py`
 
 Wait a bit for the terminal prompt to re-appear... that's how you'll know it's done processing.
 
