@@ -3009,7 +3009,7 @@
     },
     "Kola": {
         "settlements": ["Jekanskoi", "Tre", "Pechenga", "Lovozero", "Waranger", "Molovskoi", "Mafelskoi"],
-        "culture": "not_lappish"
+        "culture": "tbd"
     },
     "Finnmárk": {
         "settlements": ["Ákŋoluokta", "Álaheadju", "Báhcavuotna", "Bearalváhki", "Čáhcesuolu", "Davvesiida", "Davvinjárga", "Deatnu", "Fálesnuorri", "Gáŋgaviika", "Guovdageaidnu", "Hámmárfeasta", "Kárášjohka", "Láhppi", "Mátta-Várjjat", "Muosát", "Porsáŋgu", "Unjárga", "Várggát"],
@@ -3033,11 +3033,11 @@
     },
     "Onega": {
         "settlements": ["Ust-Onega", "Segezha", "Pryazha", "Aunus", "Petrozavodsk", "Pudoga", "Kondopoga"],
-        "culture": "not_finnish"
+        "culture": "tbd"
     },
     "Trans-Portage": {
         "settlements": ["Nyandoma", "Konosha", "Plesetsk", "Obozerskiy", "Samoded", "Shenkursk", "Solovetsky"],
-        "culture": "not_finnish"
+        "culture": "tbd"
     },
     "North Dvina": {
         "settlements": ["Solvychegodsk", "Antonievosiysky", "Archangelsk", "Usolsk", "Novokholmogory", "Koryazhma", "Nikolokorelski"],
@@ -3081,19 +3081,19 @@
     },
     "Romny": {
         "settlements": ["Ugol", "Vysokaya", "Bykovskaya", "Kholuy", "Vozhega", "Yuchka", "Marinskaya"],
-        "culture": "not_finnish"
+        "culture": "tbd"
     },
     "Zaozerye": {
         "settlements": ["Nazankha", "Afoninskaya", "Bolshaya", "Konechnaya", "Borisovskaya", "Zarechnaya", "Pashuchikha", "Kharovsk"],
-        "culture": "not_finnish"
+        "culture": "tbd"
     },
     "Chud": {
         "settlements": ["Zalese", "Zaytsevo", "Krbor", "Veldvor", "Chunlovka", "Krutayaosyp", "Kamchuga"],
-        "culture": "not_finnish"
+        "culture": "tbd"
     },
     "Vologda": {
         "settlements": ["Motyn", "Bolshayamurga", "Dvinitsa", "Sokol", "Staroye", "Kadnikovskaya"],
-        "culture": "not_finnish"
+        "culture": "tbd"
     },
     "Kostroma": {
         "settlements": ["Zavolzhsk", "Nerektha", "Kosmynino", "Nekrasoskoye", "Sudislavl", "Apraksino", "Plyos"],
@@ -3101,7 +3101,7 @@
     },
     "Beloozero": {
         "settlements": ["Fedosyevo", "Khoklovo", "Babayevo", "Glushkovo", "Kirillobelozersky", "Kinilov", "Kaduy"],
-        "culture": "not_finnish"
+        "culture": "tbd"
     },
     "Bezhetsky Verh": {
         "settlements": ["Rameshki", "Obrosovo", "Bezhetsk", "Maksatikha", "Spasnakholmu", "Molokovo", "Sonkovo", "Kyasovagora"],
@@ -5080,8 +5080,8 @@
         "culture": "frisian"
     },
     "Kandalax": {
-        "settlements": ["Sarapo", "Pyaozero", "Ponoy", "Kantalahti", "Kolsky", "Umba", "Lekastrom", "Varzuga"],
-        "culture": "not_lappish"
+        "settlements": ["Sarapo", "Pyaozero", "Ponoy", "Kandalaksha", "Kolsky", "Umba", "Lekastrom", "Varzuga"],
+        "culture": "tbd"
     },
     "Capua": {
         "settlements": ["Gaeta", "Calvi", "Capua", "Montecassino", "Acerra", "Teano", "Caserta"],
