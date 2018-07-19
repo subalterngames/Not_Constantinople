@@ -1,12 +1,13 @@
 from os import getcwd, listdir, mkdir
 from os.path import isdir
 from json import loads
+import io
 import markovify
 
 
 # Returns all provinces and their settlements with a given culture.
 def get_culture(culture):
-    with open(getcwd() + "/provinces.json", 'rt') as f:
+    with io.open(getcwd() + "/provinces.json", mode='rt', encoding="utf-8") as f:
         provinces = loads(f.read())
         c_p = dict()
         for key in provinces.keys():
@@ -77,13 +78,13 @@ def generate(filename, filename_suffix, dataset):
     directory = getcwd() + "/Output"
     if not isdir(directory):
         mkdir(directory)
-    with open(directory + "/" + filename + "_" + filename_suffix + ".txt", "wt") as f:
+    with io.open(directory + "/" + filename + "_" + filename_suffix + ".txt", mode="wt", encoding="utf-8") as f:
         f.writelines(generated)
-            
+
 
 # Load the stored cultural blends and generate some names.
 for f in listdir(getcwd() + "/Input"):
-    with open(getcwd() + "/Input/" + f, "rt") as j:
+    with io.open(getcwd() + "/Input/" + f, mode="rt", encoding="utf-8") as j:
         # Get the saved cultural blend.
         json_culture = loads(j.read())
         # Generate names of provinces and settlements.
