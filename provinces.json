@@ -2472,20 +2472,32 @@
         "culture": "norse"
     },
     "Lappi": {
-        "settlements": ["Giron", "Arjepluovvi", "Árviesjávrrie", "Jiellevárri", "Johkamohkki"],
+        "settlements": ["Giron", "Arjepluovvi", "Árviesjávrrie", "Jiellevárri", "Johkamohkki", "Suorssá"],
+        "culture": "lappish"
+    },
+    "Lappland": {
+        "settlements": ["Gallivare", "Dorotea", "Sorsele", "Mala", "Vilhelmina", "Asele"],
+        "culture": "norse"
+    },
+    "Norrbotten": {
+        "settlements": ["Bájil", "Biđona", "Bodena", "Gáinnasa", "Háhpáránddi"],
         "culture": "lappish"
     },
     "Norrbotten": {
-        "settlements": ["Bájil", "Biđona", "Bodena", "Gáinnasa", "Háhpáránddi", "Luleju", "Älvsbyna"],
-        "culture": "lappish"
+        "settlements": ["Pitea", "Boden", "Kalix", "Lulea", "Alvsbyn"],
+        "culture": "norse"
+    },
+    "Pohjoispohja": {
+        "settlements": ["Haaparanta", "Ylikainuu", "Ylitornio", "Luulaja", "Pajala"],
+        "culture": "finnish"
     },
     "Somerset": {
         "settlements": ["Muchelney", "Wells", "Ilchester", "Taunton", "Castle Cary", "Bath", "Cleeve", "Glastonbury"],
         "culture": "saxon"
     },
-    "Västerbotten": {
-        "settlements": ["Dorotea", "Lycksele", "Malå", "Suorssá", "Skielleta", "Storumana", "Vilhelmina", "Åsele", "Ubmi"],
-        "culture": "lappish"
+    "Vasterbotten": {
+        "settlements": ["Umea", "Skellefteå"],
+        "culture": "norse"
     },
     "Angermanland": {
         "settlements": ["Ulvo", "Natra"],
@@ -2530,6 +2542,10 @@
     "Uppland": {
         "settlements": ["Sigtuna", "Stockholm", "Alsno", "Enkoping", "Birka", "Hatuna", "Osteras", "Uppsala"],
         "culture": "norse"
+    },
+    "Ahvenanmaa": {
+        "settlements": [],
+        "culture": "finnish"
     },
     "Aland": {
         "settlements": ["Sund", "Geta", "Kastelholm"],
@@ -3007,6 +3023,22 @@
         "settlements": ["Njávdán", "Roavvenjárga", "Giemajávri", "Suovvaguoika", "Ohcejohka", "Anár", "Duortnus", "Soađegilli", "Pello", "Eanodat", "Giepma", "Gihttel", "Muoná"],
         "culture": "lappish"
     },
+    "Lappi": {
+        "settlements": ["Näätämö", "Rovaniemi", "Kemijärvi", "Savukoski", "Inari", "Tornio", "Sodankylä", "Pello", "Enontekiö", "Kittilä", "Muonio"],
+        "culture": "finnish"
+    },
+    "Beahcán": {
+        "settlements": [],
+        "culture": "lappish"
+    },
+    "Petsamo": {
+        "settlements": ["Höyhenjärvi"],
+        "culture": "finnish"
+    },
+    "Guoládat": {
+        "settlements": [],
+        "culture": "lappish"
+    },
     "Kola": {
         "settlements": ["Jekanskoi", "Tre", "Pechenga", "Lovozero", "Waranger", "Molovskoi", "Mafelskoi"],
         "culture": "tbd"
@@ -3015,13 +3047,25 @@
         "settlements": ["Ákŋoluokta", "Álaheadju", "Báhcavuotna", "Bearalváhki", "Čáhcesuolu", "Davvesiida", "Davvinjárga", "Deatnu", "Fálesnuorri", "Gáŋgaviika", "Guovdageaidnu", "Hámmárfeasta", "Kárášjohka", "Láhppi", "Mátta-Várjjat", "Muosát", "Porsáŋgu", "Unjárga", "Várggát"],
         "culture": "lappish"
     },
+    "Finnmark": {
+        "settlements": ["Malangen", "Hammerfest", "Ostervagen", "Piselvnes", "Vardohus", "Karsloy"],
+        "culture": "Norse"
+    },
     "Romsa": {
-        "settlements": ["Báhccavuotna", "Beardu", "Bjarkøy", "Birgi", "Divrrát", "Doasku", "Gáivuotna", "Gálsa", "Giehtavuotna", "Hárštá", "Ivgu", "Ivvárstáđit", "Leaŋgáviika", "Loabát", "Málatvuopmi", "Návuotna", "Omasvuotna", "Ránáidsuolu", "Ráisa", "Ráisavuotna", "Rivttát", "Romsa", "Siellat", "Skiervá", "Skánit"],
+        "settlements": ["Báhccavuotna", "Beardu", "Birgi", "Divrrát", "Doasku", "Gáivuotna", "Gálsa", "Giehtavuotna", "Hárštá", "Ivgu", "Ivvárstáđit", "Leaŋgáviika", "Loabát", "Málatvuopmi", "Návuotna", "Omasvuotna", "Ránáidsuolu", "Ráisa", "Ráisavuotna", "Rivttát", "Siellat", "Skiervá", "Skánit"],
         "culture": "lappish"
+    },
+    "Troms": {
+        "settlements": ["Balsfjord", "Bardu", "Berg", "Harstad", "Kvaefjord", "Lenvik", "Malselv", "Nordreisa", "Skanland", "Tromso"],
+        "culture": "norse"
     },
     "Ross": {
         "settlements": ["Rosemarkie", "Cromarty", "Tain", "Dingwall", "Avoch", "Fortrose", "Applecross", "Fearn"],
         "culture": "pictish"
+    },
+    "Nordlándda": {
+        "settlements": ["Áhkánjárga", "Válafierda", "Bálat", "Ruovada", "Hábmir", "Sálát", "Ánddasuolu", "Báidár", "Árbordi", "Evenášši", "Vuogát", "Stáigu"],
+        "culture": "lappish"
     },
     "Nordland": {
         "settlements": ["Narvik", "Kabelvag", "Bodo", "Rodoy", "Harstad", "Rost", "Andenes", "Beiarn"],
@@ -3031,8 +3075,12 @@
         "settlements": ["Kaukola", "Raivola", "Antrea", "Räisälä", "Kuolemajärvi", "Koivisto", "Käkisalmi", "Terijoki"],
         "culture": "finnish"
     },
+    "Ääninen": {
+        "settlements": ["Karhumäki", "Aunus", "Kontupohja", "Tolvoja"],
+        "culture": "finnish"
+    },
     "Onega": {
-        "settlements": ["Ust-Onega", "Segezha", "Pryazha", "Aunus", "Petrozavodsk", "Pudoga", "Kondopoga"],
+        "settlements": ["Ust-Onega", "Segezha", "Pryazha", "Olonets", "Petrozavodsk", "Pudoga", "Kondopoga"],
         "culture": "tbd"
     },
     "Trans-Portage": {
@@ -5079,7 +5127,11 @@
         "settlements": ["Wittmund", "Leer", "Borkum", "Norden", "Aurich", "Emden", "Norderney", "Esens"],
         "culture": "frisian"
     },
-    "Kandalax": {
+    "Kantalahti": {
+        "settlements": ["Kantalahti", "Alakurtti", "Kairala"],
+        "culture": "finnish"
+    },
+    "Kandalaksha": {
         "settlements": ["Sarapo", "Pyaozero", "Ponoy", "Kandalaksha", "Kolsky", "Umba", "Lekastrom", "Varzuga"],
         "culture": "tbd"
     },
