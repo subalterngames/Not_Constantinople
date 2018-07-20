@@ -187,3 +187,5 @@ These are the accepted names of cultures:
 - armenian
 - uyghur
 - rajput
+
+Note: Some provinces/settlements have the culture "tbd" because they were originally categorized incorrectly. If you recognize them, please fork this project and make the change.
