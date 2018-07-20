@@ -117,7 +117,7 @@ These are the accepted names of cultures:
 - hindustani
 - egyptian_arabic
 - telugu
-- lappish
+- northern_sami
 - karluk
 - sumpa
 - occitan
