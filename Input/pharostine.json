@@ -1,11 +1,10 @@
 {
     "culture": {
-        "assyrian": 1,
+        "assyrian": 2,
         "georgian": 1,
-        "alan": 1,
+        "alan": 2,
         "greek": 15,
-        "roman": 8,
-        "armenian": 8
+        "armenian": 2
     },
     "name": "pharostine"
 }
