@@ -76,9 +76,9 @@ Whenever you read something like "type `cd <path/to/file>`" don't type the \< or
 
 `markovify` is the Python module the program uses to generate gibberish. It's free and you get it by typing into the terminal:
 
-```bash
-pip3 install markovify
-```
+| Windows                  | OS  X and Linux               |
+| ------------------------ | ----------------------------- |
+| `pip3 install markovify` | `sudo pip3 install markovify` |
 
 ## 4. Download my program
 Get it [here](https://github.com/subalterngames/Not_Constantinople/releases/tag/1.0). Unzip the download.
